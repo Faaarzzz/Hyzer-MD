@@ -14,7 +14,7 @@ global.gopay = '212708856397'
 
 //=============『 Info Bot 』=================//
 global.namebot = '𝙶𝚊𝚊𝚛𝚊 𝙱𝚘𝚝'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nYtoDtNBk1VCNrV'
+global.gc = 'https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm'
 global.web = 'https://instagram.com/gaara_xploite' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
