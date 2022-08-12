@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6283110508453'] 
+global.owner = ['6282184730062'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Satria'
-global.numberowner = '6283110508453'
+global.nameowner = 'Fan'
+global.numberowner = '6282184730062'
 global.instagram = 'https://instagram.com/gaara_xploite'
-global.github = 'https://github.com/Gaaraofc'
-global.dana = '083110508453'
-global.pulsa = '083110508453'
-global.gopay = '083110508453'
+global.github = 'https://github.com/gaara-ofc'
+global.dana = '082184730062'
+global.pulsa = '082184730062'
+global.gopay = '082184730062'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Prinsert 27XZ'
-global.gc = 'https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm'
+global.namebot = 'Fan Botz'
+global.gc = 'https://chat.whatsapp.com/F2tqNFaoyU9Aof9YnGxJeG'
 global.web = 'https://instagram.com/gaara_xploite' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/62067cdec8344279fc042.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/d6048fda84f0223936c92.jpg' //ini juga ganti 
-global.lolkey = 'Memek11' //biar mudah ngegantinya semisal apikeynya expired:v
+global.lolkey = 'sonelganz' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Prinsert 27XZ'
+global.wm = 'Fann MD'
 global.watermark = wm
-global.wm2 = '                     「 Prinsert 27XZ あ⁩ 」'
-global.wm3 = '⫹⫺ Prinsert 27XZ'
+global.wm2 = '                     「 Fann Bot あ⁩ 」'
+global.wm3 = '⫹⫺ Fann MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -35,9 +35,9 @@ global.wait = '_*Wait semdang di proses...*_'
 global.eror = '_*Server Emrror*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Samlah ❌\n'
-global.stiker_wait = 'Stiker semdang dibuat'
-global.packname = 'stikerby Prinsert 27XZ'
-global.author = 'satria'
+global.stiker_wait = 'Stiker sedang dibuat'
+global.packname = 'stikerby'
+global.author = 'fann botz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
@@ -77,7 +77,7 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Memek11',
+  'https://api.lolhuman.xyz': 'sonelganz',
 }
 
 //=============『 RPG GAMES 』================== //
