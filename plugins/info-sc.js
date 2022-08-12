@@ -12,9 +12,9 @@ let esce = `
 Hai ${ye} Lagi Nyari Sc Ya? 
 
 Nih Link Sc Nya Dibawah :
-https://github.com/VarrX/BotMd
+https://github.com/gaara-ofc/hyzer-md
 
-_*Jangan Lupa Kasih Star*_`
+_*Jangan Lupa Kasih Stars*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
