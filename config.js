@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6282184730062'] 
+global.owner = ['6283843427860','6285694954907'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Fan'
-global.numberowner = '6282184730062'
-global.instagram = 'https://instagram.com/gaara_xploite'
-global.github = 'https://github.com/gaara-ofc'
-global.dana = '082184730062'
-global.pulsa = '082184730062'
-global.gopay = '082184730062'
+global.nameowner = 'Icha'
+global.numberowner = '6283843427860'
+global.instagram = 'https://www.instagram.com/caaa_833/'
+global.github = 'https://github.com/Faarz'
+global.dana = '085692949920'
+global.pulsa = '6283843427860'
+global.gopay = '6283843427860'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Fan Botz'
-global.gc = 'https://chat.whatsapp.com/F2tqNFaoyU9Aof9YnGxJeG'
-global.web = 'https://instagram.com/gaara_xploite' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Miaw Botz'
+global.gc = 'https://chat.whatsapp.com/CgS6dywWBR89YLHDchKBTr'
+global.web = 'https://www.instagram.com/caaa_833/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/62067cdec8344279fc042.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/d6048fda84f0223936c92.jpg' //ini juga ganti 
 global.lolkey = 'sonelganz' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Fann MD'
+global.wm = 'Miaw MD'
 global.watermark = wm
 global.wm2 = '                     「 Fann Bot あ⁩ 」'
-global.wm3 = '⫹⫺ Fann MD'
+global.wm3 = '⫹⫺ Miaw MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Samlah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stikerby'
-global.author = 'fann botz'
+global.author = 'Miaw botz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
