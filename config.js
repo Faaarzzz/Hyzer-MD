@@ -13,31 +13,31 @@ global.pulsa = '6283843427860'
 global.gopay = '6283843427860'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Miaw Botz'
+global.namebot = 'Miaw Bot'
 global.gc = 'https://chat.whatsapp.com/CgS6dywWBR89YLHDchKBTr'
 global.web = 'https://www.instagram.com/caaa_833/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/62067cdec8344279fc042.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/d6048fda84f0223936c92.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/5de0c4d8042d1ecf73c41.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/5de0c4d8042d1ecf73c41.jpg' //ini juga ganti 
 global.lolkey = 'sonelganz' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Miaw MD'
 global.watermark = wm
-global.wm2 = '                     「 Fann Bot あ⁩ 」'
+global.wm2 = '                     「 Miaw Bot あ⁩ 」'
 global.wm3 = '⫹⫺ Miaw MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/5de0c4d8042d1ecf73c41.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*Wait semdang di proses...*_'
 global.eror = '_*Server Emrror*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Samlah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'stikerby'
-global.author = 'Miaw botz'
+global.packname = 'Miaw Bot'
+global.author = 'By Ichaa'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
